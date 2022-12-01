@@ -1,0 +1,36 @@
+:root {
+  --primario: rgb(6 8 26);
+  --secundario:rgb(6 8 26);
+  --terciario:#c3f1c3;
+  --cuarto:rgb(6 8 26);
+  --quinto:#89ec85;
+           
+      font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+*,html
+:before,
+:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  
+}
+
+body {
+  background: rgb(6 8 26);
+  scroll-behavior: smooth;
+
+
+}
+
+p{ 
+  color: white;
+  text-align: center;
+}
+h1, h2, h3 {
+  color: white;
+}
